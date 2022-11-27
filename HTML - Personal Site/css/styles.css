@@ -3,9 +3,10 @@ body {
 }
 
 hr {
-  background-color: white;
-  border-style: none;
-  height: 2px;
+  border-color: white;
+  border-style: dotted none none;
+  border-width: 4px;
+  width: 25%;
 }
 
 img {
